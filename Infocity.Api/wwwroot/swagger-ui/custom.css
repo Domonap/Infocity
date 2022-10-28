@@ -1,0 +1,25 @@
+﻿img {
+    display: none;
+}
+
+img.ImgClass {
+    display: block;
+    height: 48px;
+    width: 131px;
+}
+
+.renderedMarkdown {
+    background: yellow;
+}
+ 
+.swagger-ui .topbar {
+    background-color: #ffffff;
+    border-bottom: 3px solid #547f00;
+}
+ 
+.swagger-ui .filter .operation-filter-input {
+    border: 10px solid #701D93;
+    margin: 20px 0;
+    padding: 10px;
+    width: 600px;
+}
